@@ -1,0 +1,30 @@
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\bin\Debug\net6.0\StoreApp.exe
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\bin\Debug\net6.0\StoreApp.deps.json
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\bin\Debug\net6.0\StoreApp.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\bin\Debug\net6.0\StoreApp.dll
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\bin\Debug\net6.0\StoreApp.pdb
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\StoreApp.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\StoreApp.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\StoreApp.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\StoreApp.dll
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\refint\StoreApp.dll
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\StoreApp.pdb
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\StoreApp.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\25. 25-01-2024\25012024\StoreApp\obj\Debug\net6.0\ref\StoreApp.dll
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\bin\Debug\net6.0\StoreApp.exe
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\bin\Debug\net6.0\StoreApp.deps.json
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\bin\Debug\net6.0\StoreApp.runtimeconfig.json
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\bin\Debug\net6.0\StoreApp.dll
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\bin\Debug\net6.0\StoreApp.pdb
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\StoreApp.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\StoreApp.AssemblyInfo.cs
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\StoreApp.sourcelink.json
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\StoreApp.dll
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\refint\StoreApp.dll
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\StoreApp.pdb
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\StoreApp.genruntimeconfig.cache
+C:\Users\Comp\source\repos\PB302_25_ConsolAppPractice\25012024\StoreApp\obj\Debug\net6.0\ref\StoreApp.dll
